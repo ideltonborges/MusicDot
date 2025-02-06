@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.header {
+    background-color: #d0dde4;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.info {
+    font-style: italic;
+}
+
+.phone a {
+    color: rgb(22, 18, 12);
+    text-decoration: none;
+}
